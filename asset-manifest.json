@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/jsonplaceholder-React-Redux/static/js/main.c80b997e.chunk.js",
+    "main.js.map": "/jsonplaceholder-React-Redux/static/js/main.c80b997e.chunk.js.map",
+    "runtime-main.js": "/jsonplaceholder-React-Redux/static/js/runtime-main.455c3387.js",
+    "runtime-main.js.map": "/jsonplaceholder-React-Redux/static/js/runtime-main.455c3387.js.map",
+    "static/js/2.22159455.chunk.js": "/jsonplaceholder-React-Redux/static/js/2.22159455.chunk.js",
+    "static/js/2.22159455.chunk.js.map": "/jsonplaceholder-React-Redux/static/js/2.22159455.chunk.js.map",
+    "index.html": "/jsonplaceholder-React-Redux/index.html",
+    "precache-manifest.f2c6322f216676736a5c612940922f4b.js": "/jsonplaceholder-React-Redux/precache-manifest.f2c6322f216676736a5c612940922f4b.js",
+    "service-worker.js": "/jsonplaceholder-React-Redux/service-worker.js",
+    "static/js/2.22159455.chunk.js.LICENSE.txt": "/jsonplaceholder-React-Redux/static/js/2.22159455.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.455c3387.js",
+    "static/js/2.22159455.chunk.js",
+    "static/js/main.c80b997e.chunk.js"
+  ]
+}
